@@ -127,12 +127,6 @@ MÔ HÌNH HỆ THỐNG:
 - AdminController: Quản lý hệ thống
 - RestController: Cung cấp APT cho frontend.
 
-THÀNH VIÊN NHÓM:
-
-Họ Tên	MSSV	Vai trò
-Nguyễn Huỳnh Thắng	20110726	
-Lê Hoàng Tri Ân	20110254	
-Phạm Minh Hiếu	21110446	
 
 HƯỚNG PHÁT TRIỂN
 - Tích hợp thanh toán trực tuyến (VNPay, MoMo).
